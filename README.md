@@ -8,14 +8,20 @@ You can view this project [here](https://lyrics-music-app.netlify.app).
 
 ## Built using:
 
-- React
-- Redux
-- Tailwind CSS
-- Swiper
-- Axios
-- Vite
-- GeoipifyAPI
-- RapidAPIs
+Frontend:
+
+- [React](https://reactjs.org)
+- [Redux](https://redux.js.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Swiper](https://swiperjs.com)
+- [Axios](https://axios-http.com)
+- [Vite](https://vitejs.dev)
+- [GeoipifyAPI](https://www.geoapify.com)
+- [RapidAPIs](https://rapidapi.com)
+
+Deployment:
+
+* [Netlify](https://www.netlify.com)
 
 ## Setup
 
